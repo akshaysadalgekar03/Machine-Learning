@@ -1,5 +1,5 @@
 
-# Linear Regression using Mini Batch Gradient from scratch in Python
+# Linear Regression using Mini-Batch Gradient from scratch in Python
 
 Linear Regression:
 -----------------
